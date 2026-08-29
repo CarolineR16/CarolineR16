@@ -23,7 +23,9 @@ Programação
 Desenvolvimento Web
 Banco de Dados
 Inteligência Artificial
+
 🚀 Projetos
+
 🌈 StudyRainbow
 
 Plataforma de estudos gamificada desenvolvida como projeto de curso, com fases, desafios, pontuação, conquistas e tutor de Inteligência Artificial.
