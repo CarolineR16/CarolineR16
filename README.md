@@ -2,13 +2,11 @@
 
 <div align="center">
 
-### ✨ Desenvolvedora em formação | Desenvolvimento de Sistemas
+## ✨ Desenvolvedora em formação | Desenvolvimento de Sistemas
 
 💻 Transformando ideias em projetos através da programação.
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=650&height=60&duration=3000&pause=800&lines=Ol%C3%A1%21+Eu+sou+a+Carol+%F0%9F%91%8B;Estudante+de+Desenvolvimento+de+Sistemas+%F0%9F%92%BB;Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Criando+projetos+e+aprendendo+todos+os+dias+%F0%9F%9A%80" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&center=true&vCenter=true&width=650&height=60&duration=3000&pause=800&lines=Ol%C3%A1%21+Eu+sou+a+Carol+%F0%9F%91%8B;Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Desenvolvimento+de+Sistemas+%F0%9F%92%BB;Criando+e+aprendendo+todos+os+dias+%F0%9F%9A%80)
 
 </div>
 
@@ -19,160 +17,126 @@
 ```python
 carol = {
     "nome": "Caroline Roza",
-    "formação": "Desenvolvimento de Sistemas",
-    "escolaridade": "2º ano do Ensino Médio",
-    "área": "Tecnologia & Desenvolvimento",
+    "área": "Desenvolvimento de Sistemas",
     "linguagens": ["Python", "HTML", "CSS", "JavaScript"],
-    "objetivo": "Evoluir como desenvolvedora e transformar ideias em projetos reais 🚀"
+    "foco": ["Web", "Sistemas", "Banco de Dados"],
+    "objetivo": "Transformar ideias em projetos reais 🚀"
 }
 ```
 
-Sou estudante do **2º ano do Ensino Médio** e também estudo **Desenvolvimento de Sistemas**.
+Sou estudante de **Desenvolvimento de Sistemas** e gosto de transformar ideias em projetos reais.
 
-Tenho interesse principalmente em **desenvolvimento de sistemas, desenvolvimento web, inteligência artificial, banco de dados e criação de interfaces**.
+Atualmente desenvolvo projetos utilizando **Python, HTML, CSS e JavaScript**, além de estudar banco de dados, Git e GitHub.
 
-Gosto de aprender colocando a mão no código e transformando ideias em projetos que realmente funcionam. 💗
-
----
-
-# 💻 Tecnologias & Linguagens
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
-
-<br><br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
-</div>
+Meu objetivo é continuar evoluindo como desenvolvedora e construir projetos cada vez mais completos e profissionais. 💗
 
 ---
 
-# 🚀 Meus Projetos
+## 💻 Linguagens & Tecnologias
 
-## 🤖 Agente de Inteligência Artificial
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
+</p>
 
-Projeto de um **agente de IA capaz de conversar e responder perguntas**.
+<p align="center">
 
-Durante o desenvolvimento, trabalhei com conceitos como:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* 🤖 Inteligência Artificial
-* 🐍 Python
-* 💬 Histórico de conversas
-* 🗃️ Persistência de dados
-* 🔌 Integração com APIs
-* 🧠 Contexto de conversação
-* ⚙️ Backend
-
-Esse projeto me ajudou a aprender mais sobre como aplicações podem se comunicar com modelos de IA e armazenar informações.
+</p>
 
 ---
+
+# 🚀 Projeto em destaque
 
 ## 📚 Sistema de Biblioteca Escolar
 
-Sistema desenvolvido para auxiliar no gerenciamento de uma biblioteca escolar.
+Sistema desenvolvido em **Python** para auxiliar no gerenciamento de uma biblioteca escolar.
 
-### ⚙️ Funcionalidades
+### ✨ Principais funcionalidades
 
-* 🔐 Sistema de login
-* 👥 Cadastro de usuários
-* 🎓 Cadastro de estudantes
-* 📚 Cadastro de livros
-* 🔎 Pesquisa de livros e estudantes
-* 🔄 Empréstimos e devoluções
-* 📅 Controle de data de devolução
-* ⚠️ Identificação de empréstimos atrasados
-* 📖 Histórico dos estudantes
-* 🏆 Ranking de leitura
-* 📊 Dashboard
-* 🗄️ Banco de dados
+📚 Cadastro e gerenciamento de livros  
+🎓 Cadastro de estudantes  
+🔎 Pesquisa de livros e estudantes  
+🔄 Controle de empréstimos e devoluções  
+📅 Controle da data de devolução  
+⚠️ Identificação de empréstimos atrasados  
+📖 Histórico dos estudantes  
+🏆 Ranking de leitura  
+📊 Dashboard  
+🗄️ Banco de dados  
+🔐 Sistema de login  
 
 ### 🛠️ Tecnologias
 
-`Python` • `SQLite` • `CustomTkinter`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 Projeto no GitHub
+
+[![Biblioteca](https://img.shields.io/badge/📚_VER_PROJETO-BIBLIOTECA-ff69b4?style=for-the-badge)](https://github.com/CarolineR16/Projeto-Sistema-de-Biblioteca)
+
+[![Commits](https://img.shields.io/github/commit-activity/t/CarolineR16/Projeto-Sistema-de-Biblioteca?style=for-the-badge&logo=github&label=COMMITS&color=ff69b4)](https://github.com/CarolineR16/Projeto-Sistema-de-Biblioteca/commits)
+
+> 💗 O contador acima acompanha os commits realizados no projeto da Biblioteca.
 
 ---
 
-# 🧠 O que estou estudando
+## 🧠 Meus conhecimentos
 
-<div align="center">
-
-| Tecnologia                 | Conhecimento                                 |
-| -------------------------- | -------------------------------------------- |
-| 🐍 Python                  | Desenvolvimento de sistemas e automações     |
-| 🌐 HTML                    | Estrutura de páginas web                     |
-| 🎨 CSS                     | Estilização e interfaces                     |
-| ⚡ JavaScript               | Interatividade e lógica web                  |
-| 🗄️ Banco de Dados         | Armazenamento e gerenciamento de informações |
-| 🤖 Inteligência Artificial | Agentes e integração com IA                  |
-| 🌿 Git                     | Versionamento de código                      |
-| 🐙 GitHub                  | Organização e publicação de projetos         |
-
-</div>
+| Tecnologia | O que utilizo |
+| :---: | :--- |
+| 🐍 **Python** | Desenvolvimento de sistemas e lógica |
+| 🌐 **HTML** | Estrutura de aplicações web |
+| 🎨 **CSS** | Interfaces e estilização |
+| ⚡ **JavaScript** | Lógica e interatividade |
+| 🗄️ **SQLite** | Banco de dados |
+| 🌿 **Git** | Controle de versões |
+| 🐙 **GitHub** | Projetos e portfólio |
+| 💻 **VS Code** | Desenvolvimento |
 
 ---
 
-# 📈 Minha jornada
+## 🐍 Minhas contribuições
+
+![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=CarolineR16&theme=github-compact&hide_border=true)
+
+---
+
+## 💭 Minha rotina programando
 
 ```text
 💡 Ideia
    ↓
-📚 Pesquisa
+📝 Planejamento
    ↓
 💻 Código
    ↓
-🐛 Erros
+🐛 Bug
    ↓
 🔎 Debug
    ↓
-✨ Aprendizado
+🧠 Aprendizado
    ↓
 🚀 Projeto funcionando
 ```
 
-Cada projeto é uma oportunidade para aprender algo novo e melhorar minhas habilidades como desenvolvedora.
-
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Minhas contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🎯 Objetivos
+## 🎯 Objetivos
 
 ```javascript
-const meusObjetivos = [
-    "Evoluir minhas habilidades em programação",
-    "Criar projetos cada vez mais completos",
+const objetivos = [
+    "Evoluir em Python",
+    "Aprimorar HTML, CSS e JavaScript",
+    "Criar sistemas mais completos",
     "Aprender novas tecnologias",
-    "Desenvolver aplicações úteis",
-    "Aprofundar meus conhecimentos em IA",
-    "Construir um portfólio profissional",
+    "Aprofundar meus conhecimentos em banco de dados",
+    "Construir projetos profissionais",
+    "Evoluir meu portfólio",
     "Trabalhar com tecnologia 🚀"
 ];
 ```
@@ -181,12 +145,10 @@ const meusObjetivos = [
 
 <div align="center">
 
-## 💗 Code • Learn • Create • Repeat
+## 💗 Programar • Aprender • Criar • Evoluir
 
-✨ Sempre aprendendo. Sempre criando. Sempre evoluindo.
+![Visitas](https://komarev.com/ghpvc/?username=CarolineR16&color=ff69b4&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO\&color=ff69b4\&style=for-the-badge\&label=VISITAS+NO+PERFIL)
+### ✨ Obrigada por visitar meu perfil!
 
 </div>
